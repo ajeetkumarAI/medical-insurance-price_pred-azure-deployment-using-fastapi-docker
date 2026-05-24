@@ -30,7 +30,8 @@ A Flask web application that predicts medical insurance charges using a Linear R
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/ajeetkumarAI/flask-medical-insurance-final.git
+
 cd flask-medical-insurance
 
 # Create virtual environment
